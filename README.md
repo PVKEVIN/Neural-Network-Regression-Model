@@ -156,22 +156,6 @@ print(f"Prediction: {prediction}")
 
 
 
-```python
-class NeuralNet(nn.Module):
-    def __init__(self):
-        super().__init__()
-        #Include your code here
-
-
-
-# Initialize the Model, Loss Function, and Optimizer
-
-
-
-def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
-    #Include your code here
-
-```
 
 ### Dataset Information
 <img width="405" height="419" alt="image" src="https://github.com/user-attachments/assets/08030ca1-7218-4209-9358-491ac8837e6d" />
