@@ -1,5 +1,8 @@
 # Developing a Neural Network Regression Model
 
+## Name : Kevin P
+## Register Number : 212224040159
+
 ## AIM
 To develop a neural network regression model for the given dataset.
 
@@ -151,9 +154,7 @@ print(f"Prediction: {prediction}")
 ```
 
 
-### Name: ROHITH V
 
-### Register Number: 212224220083
 
 ```python
 class NeuralNet(nn.Module):
