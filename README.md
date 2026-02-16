@@ -146,7 +146,7 @@ print(f"Prediction: {prediction}")
 
 ### Training Loss Vs Iteration Plot
 
-<img width="819" height="596" alt="image" src="https://github.com/user-attachments/assets/b4089417-44b5-4acf-ab11-7f767464335f" />
+<img width="731" height="555" alt="image" src="https://github.com/user-attachments/assets/fc071c41-60c1-4583-b583-d6742d37cc51" />
 
 
 ### New Sample Data Prediction
