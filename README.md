@@ -151,7 +151,7 @@ print(f"Prediction: {prediction}")
 
 ### New Sample Data Prediction
 
-<img width="331" height="44" alt="image" src="https://github.com/user-attachments/assets/dddd2c0a-ec0f-4bd7-a48a-5d485688ba36" />
+<img width="381" height="38" alt="image" src="https://github.com/user-attachments/assets/77d1fa35-8305-4551-82c0-1fa056e4d7e6" />
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
